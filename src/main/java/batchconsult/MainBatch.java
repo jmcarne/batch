@@ -13,8 +13,8 @@ import java.util.List;
 public class MainBatch {
     //private static String[] connMainStr = {"jdbc:vertica://10.12.70.125:5433/main", "dbadmin", ""};
     //private static String[] connSuppStr = {"jdbc:vertica://10.12.70.125:5433/main", "dbadmin", ""};
-    private static String[] connMainStr = {"jdbc:vertica://10.12.70.169:5433/main", "dbadmin", ""};
-    private static String[] connSuppStr = {"jdbc:vertica://10.12.70.169:5433/main", "dbadmin", ""};
+    private static String[] connMainStr = {"jdbc:vertica://172.16.2.75:5433/main", "dbadmin", ""};
+    private static String[] connSuppStr = {"jdbc:vertica://172.16.2.75:5433/main", "dbadmin", ""};
 
 
     //private static String[] connMainStr = {"jdbc:mysql://localhost/consmain", "root", "root"}; // 3306
